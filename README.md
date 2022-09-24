@@ -47,7 +47,7 @@ https://github.com/hellzerg/optimizer/releases
 <hr>
 
 ### 🖼️ Screenshots: ###
-https://github.com/hellzerg/optimizer/blob/master/IMAGES.md
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/IMAGES.md
 
 <hr>
 
@@ -59,22 +59,22 @@ Execute Optimizer with ```/restart=disabledefender``` switch and let it do the r
 <hr>
 
 ### 🔨 Command-line options and silent configuration files: ###
-https://github.com/hellzerg/optimizer/blob/master/CONFS.md
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/CONFS.md
 
 <hr>
 
 ### ❓ Frequently asked questions section: ###
-https://github.com/hellzerg/optimizer/blob/master/FAQ.md
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/FAQ.md
 
 <hr>
 
 ### 📜 Changelog: ###
-https://github.com/hellzerg/optimizer/blob/master/CHANGELOG.md
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/CHANGELOG.md
 
 <hr>
 
 ### 🖼️ Early development images: ###
-https://github.com/hellzerg/optimizer/blob/master/LEGACY.md
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/LEGACY.md
 
 <hr>
 
@@ -94,9 +94,5 @@ https://github.com/hellzerg/optimizer/blob/master/LEGACY.md
 
 <hr>
 
-### ☕ Buy me a delicious espresso ###
-Support my hard work by donating me through [PayPal](https://www.paypal.com/paypalme/supportoptimizer)
 
-<hr>
-
-### 🌐 Join our [Discord](https://discord.gg/rZh8BhmmQv) community
+### 🌐 Join our [Discord](https://discord.gg/a3EjDW2Uu3) community
