@@ -42,7 +42,7 @@ Depending on your version of Windows, Optimizer will also allow you to perform s
 <hr>
 
 ### ⬇️ Downloads: ###
-https://github.com/hellzerg/optimizer/releases
+https://github.com/ItzmeKen/Windows-Optimizer
 
 <hr>
 
