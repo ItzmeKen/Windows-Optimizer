@@ -65,10 +65,10 @@ Download the configuration file based on your Windows version and edit it accord
 * ```null```: ignores the specific option
 Then, execute it like this: ```optimizer.exe /win10.conf```
 ### For Windows 7: ###
-https://github.com/hellzerg/optimizer/blob/master/confs/win7.conf
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/confs/win7.conf
 ### For Windows 8/8.1: ###
-https://github.com/hellzerg/optimizer/blob/master/confs/win8.conf
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/confs/win8.conf
 ### For Windows 10: ###
-https://github.com/hellzerg/optimizer/blob/master/confs/win10.conf
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/confs/win10.conf
 ### For Windows 11: ###
-https://github.com/hellzerg/optimizer/blob/master/confs/win11.conf
+https://github.com/ItzmeKen/Windows-Optimizer/blob/main/confs/win11.conf
