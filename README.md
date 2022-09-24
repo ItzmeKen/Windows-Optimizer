@@ -78,6 +78,11 @@ https://github.com/ItzmeKen/Windows-Optimizer/blob/main/LEGACY.md
 
 <hr>
 
+### 📒 Note
+This Optimizer is made by me only. If you will take any of the Things from this Tool dont forget to give me credits
+
+<hr>
+
 ### 💻 Compatibility: ###
 
 * .NET Framework 4.5.2
